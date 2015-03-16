@@ -1,0 +1,15 @@
+https://codefights.com/feed/4WPAjJtNtsArdg9F2
+
+Let S(n) be the number of expressions for n as a sum of positive odd integers. For example,
+4 = 3 + 1
+= 1 + 3
+= 1 + 1 + 1 + 1
+so S(4) = 3.  
+
+--
+
+Input 1 (num) : integer
+non-negative integer < 1000000000 .
+
+Output : integer
+the value of S(n) module 31607
