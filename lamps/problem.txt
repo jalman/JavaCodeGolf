@@ -1,0 +1,13 @@
+https://codefights.com/feed/rq3ACuzBtGXdTtL4S
+
+N lamps are placed in a line, some are switched on and some are off. What is the smallest number of lamps that need to be switched so that on and off lamps will alternate with each other?
+
+For example, if 1 is an on lamp and 0 is an off lamp, [1, 0, 0, 1, 1, 1, 0] can become [0, 1, 0, 1, 0, 1, 0] after 3 switches.
+
+--
+
+Input 1 (a) : array.integer
+array of zeros and ones - initial lamp setup, 1 mean switched-on lamp and 0 means switched-off, length of a is less than 1000
+
+Output : integer
+minimum number of switches
