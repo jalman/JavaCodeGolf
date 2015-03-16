@@ -1,0 +1,22 @@
+https://codefights.com/feed/iZcyTXGYqR6PfaSCp
+
+There is a device with L turned-off lights and one button. When the button is pressed, the lights change state as follows:
+
+1) The first light always changes its state;
+2) When the (l-1)-th light is turned off, then the l-th light changes its state;
+
+How many lights will be on after pressing the button T times?
+
+Constraints:
+1 <= L <= 20 0 <= T <= 2^31 - 1
+
+--
+
+Input 1 (L) : integer
+Number of lights on the device
+
+Input 2 (T) : integer
+Number of times that the device's button was pressed
+
+Output : integer
+Number of lights that will be on after pressing the button T times
