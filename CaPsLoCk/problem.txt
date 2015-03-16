@@ -1,0 +1,11 @@
+https://codefights.com/feed/iGAwXL2XExdrcrQGC
+
+Given a Latin letter, print its capital form if it's lowercase and print its lowercase otherwise.
+
+--
+
+Input 1 (arg1) : string
+A given string of length 1 representing the character.
+
+Output : string
+Desired character.
