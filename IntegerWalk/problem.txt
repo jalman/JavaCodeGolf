@@ -1,0 +1,22 @@
+https://codefights.com/feed/GBuhK9r4Cdn6TQXH7
+
+Kirby starts at the point (0,0) on the Euclidean plane. He wants to get to the point (a,b), where a and b are nonnegative integers. The only kinds of steps he can take are to step one unit in either the positive x direction, or the positive y direction. In other words, he can go from (x,y) to either (x+1,y) or (x,y+1).
+
+Kirby is wondering how many ways there are for him to get to (a,b). But, all he wants your help for is to find whether that number is even or odd.
+
+For example, if (a,b) = (2,1), then there are three paths Kirby can take:
+(0,0) -> (0,1) -> (1,1) -> (2,1)
+(0,0) -> (1,0) -> (1,1) -> (2,1)
+(0,0) -> (1,0) -> (2,0) -> (2,1)
+Since three is odd, you should return True.
+
+--
+
+Input 1 (a) : integer
+0 <= a <= 100
+
+Input 2 (b) : integer
+0 <= b <= 100
+
+Output : boolean
+True if the number of paths is odd, False if it's even.
