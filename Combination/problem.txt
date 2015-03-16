@@ -1,0 +1,14 @@
+https://codefights.com/feed/3QJmcEu9F8AiBLZuL
+
+Given two positive integer numbers N and K You should return C(N,K), where C(N,K) is the number of ways to choose K elements from a set of N elements.
+
+--
+
+Input 1 (N) : integer
+0<=N<=100
+
+Input 2 (K) : integer
+0<=K<=N
+
+Output : integer
+C(N,K)
