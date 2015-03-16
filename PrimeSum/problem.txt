@@ -1,0 +1,11 @@
+https://codefights.com/feed/wknTuCwQ4ttTCeDdg
+
+Given an integer K. Output the sum of the first K prime numbers modulo 1000000007. 1 <= K <= 70000
+
+--
+
+Input 1 (K) : integer
+the integer K
+
+Output : integer
+the sum modulo 1000000007
