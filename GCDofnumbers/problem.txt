@@ -1,0 +1,14 @@
+https://codefights.com/feed/EMbtvbzeNrYKsQEHT
+
+Given N numbers you should print GCD of all of them. Where GCD = greatest common divisor.
+
+--
+
+Input 1 (N) : integer
+number of inputs 0<N=<20
+
+Input 2 (A) : array.integer
+array of numbers 0<Ai=<1000000
+
+Output : integer
+GCD of the given numbers
