@@ -1,0 +1,22 @@
+https://codefights.com/feed/7SCswCaHAfYggTxDA
+
+You have string S that represents a real non-negative number N and bool B.
+
+If B is true, return a string that represents ceiled N. Otherwise - string that represents floored N.
+
+S may be like one of these: "1", "1.", ".5", "1234567890123456789012345678901234567890.1234567890123456789012345678901234567890"
+
+Trailing dot should be removed in result (e.g. "1." -> "1"). S may have leading or/and trailing zeros, that should be removed.
+
+1 <= |S| <= 1000
+
+--
+
+Input 1 (S) : string
+Represents a real number N
+
+Input 2 (B) : boolean
+Ceil N if true; Floor if not
+
+Output : string
+String that represents resulting N
