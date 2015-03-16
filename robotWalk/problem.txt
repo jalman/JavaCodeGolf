@@ -1,0 +1,13 @@
+https://codefights.com/feed/iKiczMKoRQ7ArdbDu
+
+A robot is standing at the (0,0) point of the Cartesian plane and is oriented towards the vertical (y) axis. Then it executes some commands each of which is a single positive integer. When the robot is given a positive integer K it moves K squares forward and then turns 90 degrees clockwise. The commands are such that the robot never leaves the first quadrant.
+
+Determine if there is a square that the robot visits at least twice after executing all the commands.
+
+--
+
+Input 1 (a) : array.integer
+array of positive integers, each number represents a command, all numbers are less than 10^5, array size is less than 10^3
+
+Output : boolean
+true if there is a square that the robot visits at least twice, false otherwise
