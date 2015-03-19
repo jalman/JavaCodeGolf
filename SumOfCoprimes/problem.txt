@@ -1,0 +1,19 @@
+https://codefights.com/feed/fcAzxthft9m5mazQv
+
+In number theory, two integers A and B are said to be coprime , if the only positive integer that evenly divides both of them is 1.
+
+..........................................................................
+
+Give integer M . 1) 1<= M <=70201 Output the sum of all positive integer P module 201201 where 1) 2 <= P <= M 2) P and M are coprime
+
+.....................................................
+
+Example : input : 5 output : 9
+
+--
+
+Input 1 (M) : integer
+integer M
+
+Output : integer
+SumOfCoprimes module 201201
