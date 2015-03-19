@@ -1,0 +1,13 @@
+https://codefights.com/feed/xEJAR3xDR6d5hnWjW
+
+Every positive integer can be represented as a unieuq sum of positive powers of two. 
+
+Given a number N, return an array of the powers of two that compound this number.
+
+--
+
+Input 1 (N) : integer
+positive integer
+
+Output : array.integer
+a sorted array of unique powers of two
