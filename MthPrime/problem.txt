@@ -1,0 +1,11 @@
+https://codefights.com/feed/9D5S3NjcAKtvSKREb
+
+Given an integer M. Output the Mth prime. 1 <= M <= 70201
+
+--
+
+Input 1 (M) : integer 
+integer M
+
+Output : integer 
+Mth Prime
